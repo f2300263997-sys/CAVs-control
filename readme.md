@@ -1,11 +1,6 @@
-一种适用于车辆队列纵向控制的算法及专业平台联合仿真
-
-版本要求：matlab2021b,carsim2020,prescan8.5；
-
-carsim中导出的动力学文件为：simfile.sim与CarSim_VehicleDynamics.mdl；
-
-simulink模型为：paper1_cs.slx;
-
-prescan仿真场景为：paper1.pex
-
-注意请按照联合仿真流程进行运行。
+An algorithm suitable for longitudinal control of vehicle queues and a joint simulation of the professional platform .
+Version requirements: Matlab 2021b, Carsim 2020, Prescan 8.5; 
+The dynamic files exported from Carsim are: simfile.sim and CarSim_VehicleDynamics.mdl;
+The Simulink model is: paper1_cs.slx;
+The pre-scan simulation scenario is: paper1.pex;
+Please run the program in accordance with the joint simulation process.
